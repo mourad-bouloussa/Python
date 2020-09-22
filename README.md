@@ -1,2 +1,2 @@
-# Launch Docker Compose
+# Python Flask/Redis App
 docker-compose up
